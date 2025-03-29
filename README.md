@@ -1,8 +1,5 @@
 # TITULO
 
-descrpicion de lo que pasa
-le agrego esto
+1 local development
 
-# SEGUNDO TITULO
-
-hola jeje
+open index.py
